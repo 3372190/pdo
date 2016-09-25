@@ -1,0 +1,10 @@
+{
+  "autoload" :{
+        "psr-4" : {
+          "pdoo\\" : "app"
+        }
+  },
+  "require": {
+    "nesbot/carbon": "^1.21"
+  }
+}
