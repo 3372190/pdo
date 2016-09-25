@@ -1,2 +1,0 @@
-# pdo
-PDO Exercise 
